@@ -1,1 +1,1 @@
-# T-cnicas-computacionais
+# Tecnicas-computacionais
